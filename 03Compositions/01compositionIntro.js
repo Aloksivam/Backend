@@ -1,0 +1,2 @@
+ 
+// Composition in JavaScript is a pattern that promotes building complex behaviors by combining smaller, reusable functions or objects rather than relying on inheritance. It's a fundamental principle in functional programming and is often used to create flexible, modular, and testable code.
